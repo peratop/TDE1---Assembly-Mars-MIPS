@@ -23,3 +23,4 @@ Explicação do soma.asm
 - depois faz syscall 10 (encerrar)
 
 link do youtube
+https://youtu.be/vIOAebHs7PU?si=Efh65_JR_d6I7A-e
