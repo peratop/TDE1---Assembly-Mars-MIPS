@@ -1,3 +1,7 @@
+Eduardo Erthal
+Diego Nunes
+Leonardo Pereira 
+
 # TDE1---Assembly-Mars-MIPS
 Explicação do ordenar.asm
 
